@@ -1,0 +1,47 @@
+html{
+    font-family: 'Open Sans',sans-serif;
+    
+}
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #323232;
+    height: 50px;
+}
+
+li  {
+    display: inline;
+
+    
+}
+a{ 
+    display: inline-block;
+    padding: 11px 50px;
+    font-size: 20px;
+    color: #FFFFFF;
+    text-decoration: none;
+    text-align: left;
+}
+li a:hover{
+    background-color: black;
+    
+}
+
+body {
+    background-color: #FAFAFA;
+    
+}
+.display_ip{
+    color: black
+}
+
+.button1 {
+    background-color: #323232;
+    border-radius: 8px;
+    padding: 10px;
+    font-size: 16px;
+    color: white;
+}
